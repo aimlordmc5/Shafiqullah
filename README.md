@@ -1,2 +1,2 @@
-# Shafiqullah
+# Shafeequllah
 Guessing game
